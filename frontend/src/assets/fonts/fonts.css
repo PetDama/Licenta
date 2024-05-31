@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lustria&display=swap');
+
+.lustria-regular-font {
+  font-family: "Lustria", serif;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'JungeRegular';
+    src: url('@/assets/fonts/Junge-Regular.ttf') format('truetype');
+  }
+  
+.junge-regular-font {
+    font-family: 'Junge', cursive;
+  }
+
+@font-face {
+    font-family: 'ComingSoonRegular';
+    src: url('@/assets/fonts/ComingSoon-Regular.ttf') format('truetype');
+  }
+  
+.coming-soon-font {
+    font-family: 'ComingSoon', cursive;
+  }
+
+@font-face {
+    font-family: 'LavishlyYours';
+    src: url('@/assets/fonts/LavishlyYours-Regular.ttf') format('truetype');
+  }
+  
+.lavishly-yours-font {
+    font-family: 'LavishlyYours', cursive;
+}
+
+
+@font-face {
+    font-family: 'LoveLight';
+    src: url('@/assets/fonts/LoveLight-Regular.ttf') format('truetype');
+  }
+  
+.love-light-font {
+    font-family: 'LoveLight', cursive;
+  }
+

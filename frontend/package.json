@@ -1,0 +1,32 @@
+{
+  "name": "app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.19",
+    "@heroicons/vue": "^2.1.1",
+    "@vueuse/core": "^10.10.0",
+    "axios": "^1.6.8",
+    "bootstrap-icons": "^1.11.3",
+    "firebase": "^10.8.0",
+    "pinia": "^2.1.7",
+    "uuid": "^9.0.1",
+    "uuidv4": "^6.2.13",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5",
+    "vue3-lottie": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.0"
+  }
+}

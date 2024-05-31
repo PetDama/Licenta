@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "question": "How long does it take to receive my order?",
+        "answer": "The delivery time for your order depends on various factors such as product availability, customization requirements, and shipping method. Typically, orders are processed and shipped within 5 - 15 business days. Once shipped, you can expect delivery within 1 to 2 business days, depending on your location and chosen shipping option.",
+        "active": false
+    },
+    {
+        "id": 2,
+        "question": "Do you offer customization options for your products?",
+        "answer": "Yes, we offer customization options for many of our products. From fabric choices to sizing adjustments, we strive to accommodate your preferences to create a personalized garment that suits your needs. Please refer to the product description or contact our customer support team for more information on available customization options.",
+        "active": false
+    },
+    {
+        "id": 3,
+        "question": "Can I track my order?",
+        "answer": "Yes, you can track your order once it has been shipped. Upon dispatch, you will receive a shipping confirmation email with a tracking number and instructions on how to track your package. Simply click on the provided tracking link or enter your tracking number on our website's tracking page to monitor the status of your shipment.",
+        "active": false
+    },
+    {
+        "id": 4,
+        "question": "How can I contact your customer support team?",
+        "answer": "Our dedicated customer support team is here to assist you with any questions or concerns you may have. You can reach us via email at email@example.com or by filling out the contact form on our Contact Us page. We strive to respond to all inquiries within 24 - 72 hours and provide helpful assistance to ensure your satisfaction.",
+        "active": false
+    },
+    {
+        "id": 5,
+        "question": "What payment methods do you accept?",
+        "answer": "We accept a variety of payment methods to make your shopping experience convenient and secure. These include major credit cards (Visa, Mastercard, American Express), PayPal, and other electronic payment options. Rest assured that all transactions are processed securely to protect your personal information.",
+        "active": false
+    },
+    {
+        "id": 6,
+        "question": "Can I cancel or modify my order after it has been placed?",
+        "answer": "We understand that plans may change, and you may need to cancel or modify your order. If you need to make any changes to your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request, but please note that orders may be processed quickly, and modifications may not always be possible once the order has been confirmed.",
+        "active": false
+    },
+    {
+        "id": 7,
+        "question": "Do you offer wholesale or bulk purchasing options?",
+        "answer": "Yes, we offer wholesale and bulk purchasing options for businesses and organizations interested in purchasing our products in larger quantities. Whether you're a retailer, event planner, or corporate client, we can accommodate your wholesale needs. Please contact our wholesale department for pricing, minimum order quantities, and other details.",
+        "active": false
+    },
+    {
+        "id": 8,
+        "question": "Do you have a size guide available?",
+        "answer": "Yes, we provide a detailed size guide to assist you in selecting the right size for your garments. Our size guide includes measurements and fit recommendations for each product category to help you find the perfect fit. You can find our size guide on the product page or contact our customer support team for personalized sizing assistance.",
+        "active": false
+    }
+]
